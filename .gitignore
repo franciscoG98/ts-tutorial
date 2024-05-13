@@ -1,0 +1,9 @@
+# NPM dependencies
+node_modules/
+
+# TypeScript generated files
+*.js
+*.js.map
+
+# ts-node generated files
+*.tsbuildinfo
